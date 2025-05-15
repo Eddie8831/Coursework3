@@ -1,17 +1,94 @@
 ﻿const generatedBibEntries = {
-    "Beck2016Visual": {
-        "abstract": "Bibiographic data such as collections of scientific articles and citation networks have been studied extensively in information visualization and visual analytics research. Powerful systems have been built to support various types of bibliographic analysis, but they require some training and cannot be used to disseminate the insights gained. In contrast, we focused on developing a more accessible visual analytics system, called SurVis, that is ready to disseminate a carefully surveyed literature collection. The authors of a survey may use our Web-based system to structure and analyze their literature database. Later, readers of the survey can obtain an overview, quickly retrieve specific publications, and reproduce or extend the original bibliographic analysis. Our system employs a set of selectors that enable users to filter and browse the literature collection as well as to control interactive visualizations. The versatile selector concept includes selectors for textual search, filtering by keywords and meta-information, selection and clustering of similar publications, and following citation links. Agreement to the selector is represented by word-sized sparkline visualizations seamlessly integrated into the user interface. Based on an analysis of the analytical reasoning process, we derived requirements for the system. We developed the system in a formative way involving other researchers writing literature surveys. A questionnaire study with 14 visual analytics experts confirms that SurVis meets the initially formulated requirements.",
-        "author": "Beck, Fabian and Koch, Sebastian and Weiskopf, Daniel",
-        "doi": "10.1109/TVCG.2015.2467757",
-        "journal": "IEEE Transactions on Visualization and Computer Graphics",
-        "keywords": "type:system, visual_analytics, sparklines, information_retrieval, clustering, literature_browser",
-        "number": "01",
-        "publisher": "IEEE",
-        "series": "TVCG",
-        "title": "Visual Analysis and Dissemination of Scientific Literature Collections with {SurVis}",
-        "type": "article",
-        "url": "http://www.visus.uni-stuttgart.de/uploads/tx_vispublications/vast15-survis.pdf",
-        "volume": "22",
-        "year": "2016"
-    }
+    [
+  {
+    "id": "Hammed2023",
+    "title": "Implementing an AI-Driven Predictive Maintenance System for Food Processing Equipment",
+    "authors": ["Yusuff Hammed", "Salawudeen Sodiq"],
+    "year": 2023,
+    "keywords": ["Food Processing", "AI", "Predictive Maintenance"],
+    "venue": "RG",
+    "link": "https://doi.org/10.13140/RG.2.2.22613.33763"
+  },
+  {
+    "id": "Ucar2024",
+    "title": "Artificial Intelligence for Predictive Maintenance Applications: Key Components, Trustworthiness, and Future Trends",
+    "authors": ["Aysegul Ucar", "Mehmet Karakose", "Necim Kırımça"],
+    "year": 2024,
+    "keywords": ["Mining", "Trustworthy AI", "Review"],
+    "venue": "Applied Sciences",
+    "link": "https://doi.org/10.3390/app14020898"
+  },
+  {
+    "id": "Patil2024",
+    "title": "Artificial Intelligence-Driven Predictive Maintenance in Manufacturing",
+    "authors": ["Dimple Patil"],
+    "year": 2024,
+    "keywords": ["General Manufacturing", "Supervised Learning", "IoT"],
+    "venue": "SSRN",
+    "link": "https://doi.org/10.2139/ssrn.5057406"
+  },
+  {
+    "id": "Frontiers2025",
+    "title": "AI-driven transformation in food manufacturing: A pathway to sustainable production",
+    "authors": ["Frontiers in Nutrition"],
+    "year": 2025,
+    "keywords": ["Food Processing", "Sustainability", "Monitoring"],
+    "venue": "Frontiers in Nutrition",
+    "link": "https://doi.org/10.3389/fnut.2025.1553942"
+  },
+  {
+    "id": "MfgLetters2023",
+    "title": "A Predictive Maintenance Approach in Manufacturing Systems via AI Techniques",
+    "authors": ["Manufacturing Letters"],
+    "year": 2023,
+    "keywords": ["General Manufacturing", "Decision Trees"],
+    "venue": "Manufacturing Letters",
+    "link": "https://doi.org/10.1016/j.mfglet.2023.08.125"
+  },
+  {
+    "id": "Lawrence2023",
+    "title": "AI-driven predictive maintenance for smart manufacturing and Industry 4.0",
+    "authors": ["Lawrence Emma"],
+    "year": 2023,
+    "keywords": ["Smart Factory", "General", "Edge Computing"],
+    "venue": "RG",
+    "link": "https://doi.org/10.13140/RG.2.2.22613.33763"
+  },
+  {
+    "id": "Poland2024",
+    "title": "Industrial Machines Health Prognosis Using a Transformer-Based Framework",
+    "authors": ["David J. Poland", "Lemuel Puglisi", "Daniele Ravi"],
+    "year": 2024,
+    "keywords": ["Transformer", "Health Monitoring", "Mining"],
+    "venue": "arXiv",
+    "link": "https://arxiv.org/abs/2411.14443"
+  },
+  {
+    "id": "Malawade2021",
+    "title": "Neuroscience-Inspired Algorithms for the Predictive Maintenance of Manufacturing Systems",
+    "authors": ["Malawade", "Costa", "Muthirayan", "Khargonekar", "Faruque"],
+    "year": 2021,
+    "keywords": ["Neuroscience", "General", "Anomaly Detection"],
+    "venue": "arXiv",
+    "link": "https://arxiv.org/abs/2102.11450"
+  },
+  {
+    "id": "Khosravi2023",
+    "title": "Strategic Data Augmentation with CTGAN for Smart Manufacturing",
+    "authors": ["Hamed Khosravi", "et al."],
+    "year": 2023,
+    "keywords": ["CTGAN", "Paper Production", "Imbalanced Data"],
+    "venue": "arXiv",
+    "link": "https://arxiv.org/abs/2311.09333"
+  },
+  {
+    "id": "Hamel2024",
+    "title": "PMI-DT: Leveraging Digital Twins and Machine Learning for Predictive Modeling and Inspection",
+    "authors": ["Chas Hamel", "Md Ahsan", "Shivakumar Raman"],
+    "year": 2024,
+    "keywords": ["Digital Twin", "Smart Factory", "ML"],
+    "venue": "arXiv",
+    "link": "https://arxiv.org/abs/2411.01299"
+  }
+]
 };
