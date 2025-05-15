@@ -1,6 +1,5 @@
 ﻿const generatedBibEntries = {
     
-{
     "Hammed2023AI": {
         "id": "Hammed2023AI",
         "author": "Hammed, Y. and Sodiq, S.",
@@ -66,6 +65,5 @@
         "keywords": "AI, Manufacturing, Predictive Maintenance, Decision Trees",
         "type": "journal"
     }
-}
 
 };
