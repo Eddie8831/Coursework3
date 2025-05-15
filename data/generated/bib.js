@@ -72,7 +72,7 @@
     "journal": "",
     "publisher": "",
     "doi": "10.13140/RG.2.2.22613.33763",
-    "url": "https://doi.org/10.13140/RG.2.2.22613.33763",
+    "url": " https://www.researchgate.net/publication/389498658_AI-Driven_Predictive_Maintenance_for_Smart_Manufacturing_and_Industry_40",
     "abstract": "This paper explores AI and edge computing strategies for predictive maintenance across industries. Evaluation uses benchmarking and industrial simulations on public datasets.",
     "keywords": "Industry 4.0, Edge Computing, Predictive Maintenance, Smart Manufacturing",
     "type": "article"
