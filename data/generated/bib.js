@@ -1,5 +1,5 @@
 ﻿const generatedBibEntries = {
-    [
+    
 {
     "Hammed2023AI": {
         "id": "Hammed2023AI",
@@ -68,5 +68,4 @@
     }
 }
 
-]
 };
